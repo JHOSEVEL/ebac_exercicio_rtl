@@ -1,5 +1,5 @@
 .post-comments-form-textarea {
-    color: #333;
+    color: #fd9999;
     font-size: 14px;
     line-height: 22px;
     margin-bottom: 24px;
@@ -10,10 +10,10 @@
 }
 
 .post-comment {
-    color: #444;
+    color: #7c7b7b;
     font-size: 12px;
     line-height: 20px;
-    background-color: #ffff9f;
+    background-color: #fbfb07;
     padding: 8px 16px;
     border-radius: 8px;
     margin-bottom: 8px;
